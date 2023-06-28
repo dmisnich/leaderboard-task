@@ -2,6 +2,8 @@
 
 The work was done in Unity 2021.3.27f1.
 
+The starting scene is located at `Assets/LeaderboardApp/Scenes/LeaderboardApp`.
+
 ## How my solution works.
 
 My solution is built on the `Zenject` framework, using `Addresables` and `async/await`.
