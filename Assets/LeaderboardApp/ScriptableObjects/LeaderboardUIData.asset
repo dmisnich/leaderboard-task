@@ -1,0 +1,30 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f7d1eeda98cc473e934854e385b3e28c, type: 3}
+  m_Name: LeaderboardUIData
+  m_EditorClassIdentifier: 
+  data:
+  - leaderboardItemType: 4
+    itemScale: {x: 800, y: 140}
+    itemColor: {r: 0, g: 0.99068594, b: 1, a: 1}
+  - leaderboardItemType: 3
+    itemScale: {x: 780, y: 130}
+    itemColor: {r: 1, g: 0.9863349, b: 0, a: 1}
+  - leaderboardItemType: 2
+    itemScale: {x: 770, y: 120}
+    itemColor: {r: 0.6037736, g: 0.6037736, b: 0.6037736, a: 1}
+  - leaderboardItemType: 1
+    itemScale: {x: 760, y: 110}
+    itemColor: {r: 0.5943396, g: 0.31472468, b: 0, a: 1}
+  - leaderboardItemType: 0
+    itemScale: {x: 750, y: 90}
+    itemColor: {r: 0.8679245, g: 0.8679245, b: 0.8679245, a: 1}
