@@ -22,8 +22,7 @@ namespace LeaderboardApp.Scripts.UI.Popups
 
         [SerializeField] private Button exitButton;
         [SerializeField] private Transform content;
-
-        private LeaderboardConfig _leaderboardConfig;
+        
         private LeaderboardPopupParams _leaderboardPopupParams;
         private LeaderboardData[] _params;
         private LeaderboardItem _cachedLeaderboardItem;
